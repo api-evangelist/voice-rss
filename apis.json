@@ -1,0 +1,50 @@
+{
+    "name": "Voice RSS",
+    "description": "Voice RSS provides free text-to-speech (TTS) online service and free TTS API with very fast and simple integration.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1737-voice-rss.jpg",
+    "tags": [
+        "have api",
+        "networks",
+        "southkorea",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/voice-rss\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Voice RSS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1737-voice-rss.jpg",
+            "humanURL": "http:\/\/www.voicerss.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/voice-rss-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/voice-rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/voice-rss"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/VoiceRSS"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.voicerss.org"
+        }
+    ]
+}
